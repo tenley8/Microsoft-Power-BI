@@ -6,7 +6,7 @@
 
 * [Project Overview](#project-overview)
 * [Gross Profit Models](#gross-profit-models)
-* [Budget Sales Models](#budget-sales-models)
+* [Budget Sales Reports](#budget-sales-reports)
 * [Data Source and Database](#Data-Source-and-Database)
 * [Interactive Dashboards](#Interactive-Dashboards)
 * [Summary](#summary)
@@ -36,7 +36,7 @@ In this project we are going to create a new group called BrandName from the Dim
 	- I will also include a two slicers, the first one you can select the 'FiscalYear' and the second one you can 'Choose Brand'.
 
 
-## Budget Sales Models
+## Budget Sales Reports
 	- A slicer to indicate the 'CalendarYear' 2007, 2008, & 2009.
 	- A Budget & Sales Amount by Month table with the following columns: CalendarMonth, BudgetAmount, SalesAmount, & BrandName.
 	- KPI trend over time, the trend over time I would be measuring is BudgetAmount.
