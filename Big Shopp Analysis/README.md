@@ -5,7 +5,7 @@
 #### Table of Contents  
 
 * [Project Overview](#project-overview)
-* [Big Shopp Store Reports(#big-shopp-store-reports)
+* [Big Shopp Store Report (#big-shopp-store-reports)
 * [Data Source and Database](#Data-Source-and-Database)
 * [Interactive Dashboards](#Interactive-Dashboards)
 * [Summary](#summary)
