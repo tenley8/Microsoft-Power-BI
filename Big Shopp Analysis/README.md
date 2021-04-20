@@ -34,7 +34,8 @@ the sales for that continent.
 	- Total Sales by Quarter and Year.
 	- Cards for: Sum sales, Max and Min Sales Quantity, & Average Sales.
 	- Product Subcategory annual total sales
-	- I will also include a two slicers, the first one you can select the 'Product Category' and the second one you can select which continent the sales origenated from.
+	- I will also include a two slicers, the first one you can select the 'Product Category'.
+	- The second one you can select which continent the sales origenated from.
 
 ## Data Source and Database
 - Microsoft Access Store Sales database
