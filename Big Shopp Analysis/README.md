@@ -43,3 +43,4 @@ the sales for that continent.
 - Please visit our [visual dashboard](https://app.powerbi.com/groups/me/reports/f406054b-a18f-492f-8934-274662428865/ReportSection?noSignUpCheck=1&redirectedFromSignup=1&ScenarioId=signup)
 
 ## Summary
+In this project we analyzed the Big Shoop sales data. We created a dashboard the store. We started off by creating groups 
