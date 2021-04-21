@@ -39,7 +39,7 @@ the Category and Subcategory columns with "Misc".. I will Use the ISBLANK functi
 	- In each measure change value to Currency with 2 decimal points 
         - % Sales Growth change value to percentage with 2 decimal places
 
-## Sales Analysis Visuals
+## Sales Analysis Reports
 - Final table includes Product category and sub category, reseller’s monthly sales, monthly sales filtered, the previous month sales and the previous month sales filtered
 - A clustered Column chart and a slicer indicating the Reseller’s business type would also be in my report along with a KPI indicating the monthly sales by year
 
