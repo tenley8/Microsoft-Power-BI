@@ -30,7 +30,7 @@ been asked to analyze the traffic logs metrics.
 	- The lighter the color the higher the count with highest visitor count located in the United States.
 
 ## Data Source and Database
-- Google Analytic excel file
+- Google Analytics website traffic excel file
 
 ## Interactive Dashboards
 - Please visit our [visual dashboard](https://app.powerbi.com/groups/me/reports/ecee17ed-a02d-408f-9213-1d1d7538f119/ReportSection?noSignUpCheck=1&redirectedFromSignup=1&ScenarioId=signup)
