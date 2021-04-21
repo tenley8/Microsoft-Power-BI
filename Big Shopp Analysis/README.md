@@ -21,7 +21,7 @@ the sales for that continent. I also have to create a relationship between the O
 	- Min Sales Quantity = MIN(Sales[SalesAmount])
 	- Ave Sales = AVERAGE(Sales[SalesAmount])
 	- All Product Sales = CALCULATE([Sum Sales], ALL('Product'))
-	- Product Sales Ratio = DIVIDE([Sum Sales],[All Product Sales], BLANK())
+	- Product Sales Ratio = DIVIDE([Sum Sales],[All Product Sales], BLANK()) // BLANK(), if denominator is 0
 	- Store Count=CALCULATE(DISTINCTCOUNT([StoreKey]), USERELATIONSHIP(Store[OpenDate],'Date'[Datekey]))
 
 #### Calculated Column
