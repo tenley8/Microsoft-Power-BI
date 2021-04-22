@@ -10,14 +10,13 @@
 
 ## Project Overview
 This project aims to analyze Google Analytics Traffic logs metrics. In this scenario, I work with a company that analyze web traffic movements and I have
-been asked to analyze the traffic logs metrics. The first metric that I want to analyze is the total web traffic visits, which is the total visit counts
-- Next I am going to look at visits over time using a line chart utilizing visit count and date columns.
+been asked to analyze the traffic logs metrics. The first metric that I want to analyze is the total web traffic visits, which is the total visit counts.
+- I am going to look at visits over time using a line chart utilizing visit count and date columns.
 	- By selecting any month the dispay returns the total visits for that selected month.
-	
-- Next I will look at the internet traffic bounces, this is when a visitor visits your webpage. We will add the bounces column and then change chart type to line and clustered chart	
+- I will look at the internet traffic bounces, this is when a visitor visits your webpage. We will add the bounces column and then change chart type to line and clustered chart	
 	- The resulting chart would indicate the number of bounces of each month selected.
 	
-- Next Iam going to look at the split between new and returning visitors. The visitor type would be 'New Visitors' Vs 'Returning Visitors'
+- Iam going to look at the split between new and returning visitors. The visitor type would be 'New Visitors' Vs 'Returning Visitors'
 	- To accomplish this I am going to create a pie chart comparing the visit count to visitor type.
 	
 - Next I am going to look at our website traffic sources. We are going use a clustered bar chart and for the fields we are going to select the source and visit count columns.
