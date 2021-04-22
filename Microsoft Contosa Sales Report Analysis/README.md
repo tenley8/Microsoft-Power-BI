@@ -13,11 +13,11 @@
 
 ## Project Overview
 This project aims to analyze the Contosa sample data from Microsoft.  Contosa is an electronics company that sells various products through stores, online and resellers. This model contains 
-sales data from 2007 to 2009. In this scenario, I work with a company that analyzes Contosa’s 'Gross Profit' from different dimensions and the annual Bundget & Sales Amount totals. 
+sales data from 2007 to 2009. In this scenario, I work with a company that analyzes Contosa’s 'Gross Profit' from different dimensions and also the Annual Bundget & Sales Amount totals. 
 I am going to analyze the data using various dimensions including DimProduct, DimProduct Subcatogery & DimPromotion.
 
 #### Grouping
-In this project we are going to create a new group called BrandName from the DimProduct table using the field BrandName.  Under this group we will utilize the brands: AdventureWorks, Contosa and Northwind Traders .
+In this project I am going to create a new group called BrandName from the DimProduct table using the field BrandName.  Under this group I will utilize the brands: AdventureWorks, Contosa and Northwind Traders .
 
 #### DAX Measures for the FactSales Table
 	- % Items Returned = SUM(FactSales[ReturnQuantity])/ SUM(FactSales[SalesQuantity]) 
@@ -51,6 +51,6 @@ In this project we are going to create a new group called BrandName from the Dim
 - Please visit our [visual dashboard](https://app.powerbi.com/groups/me/reports/e141dac2-be8d-445a-8a28-d145aade080e/ReportSection?noSignUpCheck=1&redirectedFromSignup=1&ScenarioId=signup)
 
 ## Summary
-In this project we analyzed the Contosa sample data from Microsoft using the Microsoft Contosa Sales Data. We created two dashboards one for the Gross profit Models
-and one for the Budget Sales Models. We started off by creating groups for the brands: AdventureWorks, Contosa and Northwind Traders. We then added a calculated column 
-to show the percentage discount for the sales anmount. Other stepa included were creating DAX measures for discount percentage and gross product (GP) percentage.
+In this project I analyzed the Contosa sample data from Microsoft using the Microsoft Contosa Sales Data. I created two dashboards one for the Gross profit Models
+and one for the Budget Sales Models. I started off by creating groups for the brands: AdventureWorks, Contosa and Northwind Traders. I then added a calculated column 
+to show the percentage discount for the sales anmount. Other steps included; creating DAX measures for discount percentage and measures for gross product (GP) percentage.
