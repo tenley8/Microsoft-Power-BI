@@ -11,8 +11,8 @@
 * [Summary](#summary)
 
 ## Project Overview
-In this project, I work for a bike equipment company and have been asked to analyze the sales data. I am required to compare monthly store sales against the 
-specific calendar year. For this comparison I have to select the reseller's business type which included Specialty Bike Shop, Value Added Reseller and Warehouse.
+In this project, I work for a bike equipment company and I have been asked to analyze the sales data. I am required to compare monthly store sales against 
+specific calendar years. For this comparison I will have to select the reseller's business type, which includes a Specialty Bike Shop, a Value Added Reseller and a Warehouse.
 For this comparison I will create measures that only includes resellers who have been in business for at least a year at the time of the sales. 
 To accomplish this I would create DAX measures and calculated columns to return the required data. 
 
