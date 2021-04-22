@@ -21,7 +21,7 @@ been asked to analyze the traffic logs metrics. The first metric that I want to 
 	- The resulting clustered bar chart would return the the visit count by source; source can be Google, Bing... etc.
 	- I added a line chart to show the length of time a visitor stays on a website and by the date they visited.
 - Finally I want to see where our visitors are coming from. I am going to use a filed map chart and the fields are the country and visit count columns.
-	- The lighter the color the higher the count with highest visitor count located in the United States.
+	- The lighter the color the higher the count, with highest visitor count located in the United States.
 
 ## Data Source and Database
 - Google Analytics website traffic excel file
