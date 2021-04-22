@@ -10,7 +10,7 @@
 * [Interactive Dashboards](#Interactive-Dashboards)
 
 ## Project Overview
-In this project, I work for a bike equipment company and have been asked to analyze the sales data. I would need to compare monthly store sales against the 
+In this project, I work for a bike equipment company and have been asked to analyze the sales data. I was requred to compare monthly store sales against the 
 calendar year, and I would need to select the reseller's business type which includes Specialty Bike Shop, Value Added Reseller and Warehouse.
 For this comparison I will create measures that only includes resellers who have been in business for at least a year at the time of the sales. 
 To accomplish this I would create DAX measures to filter the data. 
