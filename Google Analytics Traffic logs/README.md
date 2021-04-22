@@ -10,9 +10,7 @@
 
 ## Project Overview
 This project aims to analyze Google Analytics Traffic logs metrics. In this scenario, I work with a company that analyze web traffic movements and I have
-been asked to analyze the traffic logs metrics.
-
-- The first metric that I want to analyze is the total web traffic visits, which is the total visit counts.
+been asked to analyze the traffic logs metrics. The first metric that I want to analyze is the total web traffic visits, which is the total visit counts
 - Next I am going to look at visits over time using a line chart utilizing visit count and date columns.
 	- By selecting any month the dispay returns the total visits for that selected month.
 	
