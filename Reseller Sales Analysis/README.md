@@ -8,6 +8,7 @@
 * [Sales Analysis Visuals](#Sales-Analysis-Visuals)
 * [Data Source and Database](#Data-Source-and-Database)
 * [Interactive Dashboards](#Interactive-Dashboards)
+* [Summary](#summary)
 
 ## Project Overview
 In this project, I work for a bike equipment company and have been asked to analyze the sales data. I am required to compare monthly store sales against the 
@@ -48,5 +49,8 @@ the Category and Subcategory columns with "Misc".. I will Use the ISBLANK functi
 
 ## Interactive Dashboards
 - Please visit our [visual dashboard](https://app.powerbi.com/groups/me/reports/a78986b8-079b-4acd-a024-fd4740b255c3/ReportSection?noSignUpCheck=1&redirectedFromSignup=1&ScenarioId=signup)
+
+## Summary
+In this project I analyzed the sales data for a bike company. I compared monthly store sale against the 2013 to 2016 calendar year.  Monthly stores sales was compared to the different business types. The resulting dashboard indicated a KPI’s showing the monthly sales by year figures and a bar chart showing the calendar year monthly sales.
 
 
