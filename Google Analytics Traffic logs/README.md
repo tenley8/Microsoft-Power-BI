@@ -7,6 +7,7 @@
 * [Project Overview](#project-overview)
 * [Data Source and Database](#Data-Source-and-Database)
 * [Interactive Dashboards](#Interactive-Dashboards)
+* [Summary](#summary)
 
 ## Project Overview
 This project aims to analyze Google Analytics Traffic logs metrics. In this scenario, I work with a company that analyze web traffic movements and I have
