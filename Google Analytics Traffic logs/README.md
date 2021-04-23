@@ -10,7 +10,7 @@
 * [Summary](#summary)
 
 ## Project Overview
-This project aims to analyze Google Analytics Traffic logs metrics. In this scenario, I work with a company that analyze web traffic movements and I have
+This project aims to analyze Google Analytics Traffic logs metrics. In this scenario, I work with a company that analyzes web traffic movements and I have
 been asked to analyze the traffic logs metrics. The first metric that I want to analyze is the total web traffic visits, which is the total visit counts.
 - I am going to look at visits over time using a line chart utilizing visit count and date columns.
 	- By selecting any month the dispay returns the total visits for that selected month.
@@ -31,4 +31,4 @@ been asked to analyze the traffic logs metrics. The first metric that I want to 
 - Please visit our [visual dashboard](https://app.powerbi.com/groups/me/reports/ecee17ed-a02d-408f-9213-1d1d7538f119/ReportSection?noSignUpCheck=1&redirectedFromSignup=1&ScenarioId=signup)
 
 ## Summary
-In this project I analyzed Google Traffic logs metrics. To accomplish this task of analyzing web traffic movements and traffic logs metrics, I created a dashboard showing   the total visit count and bounces of web traffic. I created a horizontal slicer whereby you can select all months or only just a single month. In the dashboard you can also see the percentage of new vs returning visitors and the visitor’s country. From the map you are able to read the tool tip showing the selected country’s count. The lighter the region, the higher the country’s count was.
+In this project I analyzed Google Traffic logs metrics. To accomplish this task of analyzing web traffic movements and traffic logs metrics, I created a dashboard showing   the total visit count and bounces of web traffic. I created a horizontal slicer whereby you can select all months or only just a single month. In the dashboard you can also see the percentage of new vs returning visitors and the visitor’s country. From the map you are able to read the tool tip showing the selected country’s count. The lighter the region, the higher the country’s count is.
