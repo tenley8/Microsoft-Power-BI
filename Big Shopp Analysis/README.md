@@ -44,4 +44,4 @@ Product categories are Audio, Home appliances, Cell phones, Computers etc... I a
 - Please visit our [visual dashboard](https://app.powerbi.com/groups/me/reports/f406054b-a18f-492f-8934-274662428865/ReportSection?noSignUpCheck=1&redirectedFromSignup=1&ScenarioId=signup)
 
 ## Summary
-In this project I analyzed the Big Shoop sales data. I created a dashboard identifying total, max, min and average sales quantity for the different product categories. To accomplish this task I created aggregated DAX measures for the sales values and added calculated columns for the year, month and quarter reports.  The results were filtered using sliders whereby you can select the Product Category and Continent to obtain your results.
+In this project I analyzed the Big Shoop sales data. I created a dashboard identifying total, max, min and average sales quantity for the different product categories. To accomplish this task I created aggregated DAX measures for the sales values and added calculated columns for the year, month and quarter reports.  The results were filtered using slicers where you can select the Product Category and Continent to obtain your results.
